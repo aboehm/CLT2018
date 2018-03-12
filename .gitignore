@@ -1,3 +1,4 @@
 *.swp
 *.pyd
 Pipfile.lock
+__pycache__/*
